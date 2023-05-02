@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "avatarId": 3,
+      "name": "mock, User 2",
+      "email": "mockUser02@mail.com",
+      "role": "Admin",
+      "lastLogin": "14-04-2023 01:59:09 PM"
+    },
+    {
+      "id": 4,
+      "avatarId": 1,
+      "name": "mock, User 4",
+      "email": "mockUser04@mail.com",
+      "role": "Billing",
+      "lastLogin": "19-04-2023 01:59:09 PM"
+    },
+    {
+      "id": 5,
+      "avatarId": 1,
+      "name": "mock, User 5",
+      "email": "mockUser05@mail.com",
+      "role": "Partner",
+      "lastLogin": "20-04-2023 01:59:09 PM"
+    },
+    {
+      "id": 6,
+      "avatarId": 1,
+      "name": "test mock api,mock",
+      "email": "mock@mail.cm",
+      "role": "Billing",
+      "lastLogin": "2023-05-02T07:29:03.116Z"
+    },
+    {
+      "name": "michael,jackson",
+      "email": "mg@mail.com",
+      "role": "Admin",
+      "id": 7,
+      "avatarId": 1,
+      "lastLogin": "2023-05-02T07:31:29.577Z"
+    },
+    {
+      "name": "Krishna,Vasudev",
+      "email": "Kv@mail.com",
+      "role": "Partner",
+      "id": 8,
+      "avatarId": 1,
+      "lastLogin": "2023-05-02T07:32:39.616Z"
+    },
+    {
+      "name": "Finn,Walton",
+      "email": "zaro@mailinator.com",
+      "role": "Partner",
+      "id": 9,
+      "avatarId": 1,
+      "lastLogin": "2023-05-02T07:35:04.052Z"
+    },
+    {
+      "name": "aa,aa",
+      "email": "test@mail.com",
+      "role": "Partner",
+      "avatarId": 1,
+      "id": 10,
+      "lastLogin": "2023-05-02T09:42:56.339Z"
+    }
+  ]
+}
